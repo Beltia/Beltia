@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning data analysis<br>🎯 Goals: To create 5 projects within Data analysis.<br>🎲 Fun fact: I'm equally fascinated by financial systems and lines of code.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning data analysis<br>🎯 Goals: To create 5 projects for Data analysis.<br>🎲 Fun fact: I'm equally fascinated by financial systems and lines of code.</p>
 
 ###
 
