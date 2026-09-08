@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a finance and economics student with a strong interest in software development and data analysis. I'm passionate about building tech driven solutions that improve financial systems.</p>
+<p align="left">I am a finance and economics student with a strong interest in software development and data analysis. I'm passionate about building tech-driven solutions that improve financial systems.</p>
 
 ###
 
